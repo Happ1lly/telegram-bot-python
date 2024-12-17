@@ -2,4 +2,4 @@
 builder = "nixpacks"
 
 [deploy]
-startCommand = "poetry run python main.py"
+startCommand = "poetry run python LikaBot.py"
